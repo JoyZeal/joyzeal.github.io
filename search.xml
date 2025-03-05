@@ -4,11 +4,24 @@
   
     
     <entry>
+      <title>Java基础记录</title>
+      <link href="/2025/03/05/Java%E5%9F%BA%E7%A1%80%E8%AE%B0%E5%BD%95/"/>
+      <url>/2025/03/05/Java%E5%9F%BA%E7%A1%80%E8%AE%B0%E5%BD%95/</url>
+      
+        <content type="html"><![CDATA[<pre><code>-文件包含类：一个Java源代码文件包含一个或多个类的定义。如果文件包含公共类，则文件名必须与类名相同。-类包含成员：类可以包含成员变量（字段）和方法。这些成员定义了类的状态和行为。包包含类和接口：包可以包含类和接口，也可以包含-其他包（子包）。包的使用使得类和接口的组织更加清晰，避免了命名冲突。-目录结构：在文件系统中，包的结构通常反映为目录结构。例如，包com.example.myapp通常对应于目录结构com/example/myapp/。</code></pre>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>一些方向思考</title>
       <link href="/2025/03/04/%E4%B8%80%E4%BA%9B%E6%96%B9%E5%90%91%E6%80%9D%E8%80%83/"/>
       <url>/2025/03/04/%E4%B8%80%E4%BA%9B%E6%96%B9%E5%90%91%E6%80%9D%E8%80%83/</url>
       
-        <content type="html"><![CDATA[<h1 id="我的待办事项列表"><a href="#我的待办事项列表" class="headerlink" title="我的待办事项列表"></a>我的待办事项列表</h1><ul><li><input disabled="" type="checkbox"> 完成日语语法学习</li><li><input disabled="" type="checkbox"> 背诵 50 个日语单词</li><li><input disabled="" type="checkbox"> 练习日语听力 30 分钟</li></ul>]]></content>
+        <content type="html"><![CDATA[<h1 id="我的待办事项列表"><a href="#我的待办事项列表" class="headerlink" title="我的待办事项列表"></a>我的待办事项列表</h1>]]></content>
       
       
       
@@ -42,7 +55,7 @@
       <link href="/2024/03/04/hello-world/"/>
       <url>/2024/03/04/hello-world/</url>
       
-        <content type="html"><![CDATA[<p>Hi，大家，一直很想做一个属于自己的小天地，现在刚好趁着刚开学学业压力不大，来做这件事。</p><!-- 普通Markdown内容 --><h2 id="今日学习任务"><a href="#今日学习任务" class="headerlink" title="今日学习任务"></a>今日学习任务</h2><p>这里可以正常写其他Markdown内容…</p><!-- 插入TODO列表 --><ul class="todo-list">  <li class="todo-item">复习N2语法笔记</li>  <li class="todo-item">完成CNN图像分类实验</li>  <li class="todo-item">部署新版博客主题</li></ul><p>继续其他内容…</p><h2 id="当前待办事项"><a href="#当前待办事项" class="headerlink" title="当前待办事项"></a>当前待办事项</h2><ul class="todo-list">  <li class="todo-item">完成Hexo博客部署</li>  <li class="todo-item">实现TODO List功能</li>  <li class="todo-item">添加深度学习实验记录</li>  <li class="todo-item">完成[音乐播放器]界面</li>  <li class="todo-item">开发番茄钟功能</li>  <li class="todo-item">集成大模型对话模块</li></ul><h2 id="已完成事项"><a href="#已完成事项" class="headerlink" title="已完成事项"></a>已完成事项</h2><ul class="todo-list">  <li class="todo-item done">部署基础博客框架</li>  <li class="todo-item done">配置主题样式</li></ul><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="language-bash">$ hexo new &quot;My New Post&quot;</code></pre>]]></content>
+        <content type="html"><![CDATA[<p>Hi，大家，一直很想做一个属于自己的小天地，现在刚好趁着刚开学学业压力不大，来做这件事。</p><!-- 普通Markdown内容 --><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="language-bash">$ hexo new &quot;My New Post&quot;</code></pre>]]></content>
       
       
       
